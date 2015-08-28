@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+<!-- Right end Arrow - alphabet 
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/rightarrow"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true" /> -->
+<!-- letter appears -->
+    <ListView
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="384.9dp"
+        android:layout_height="14.2dp"
+        android:id="@+id/listView1"
+        android:layout_marginBottom="53.2dp"
+        android:layout_marginTop="0.0dp" />
+<!-- SQLite row id / hidden by default -->
+    <TextView
+        android:id="@+id/sqlite_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone" />
+<!-- web site word from database -->
+    <TextView
+        android:id="@+id/WORD"
+        android:layout_width="384.5dp"
+        android:layout_height="wrap_content"
+        android:paddingTop="8dip"
+        android:paddingLeft="8dip"
+        android:paddingBottom="4dip"
+        android:textSize="18dip"
+        android:text="Your word will appear here"
+        android:textColor="#AAAAAA" />
+<!-- web site GUESSWORD goes here ???? -->
+    <TextView
+        android:id="@+id/GUESSWORD"
+        android:layout_width="384.5dp"
+        android:layout_height="wrap_content"
+        android:paddingTop="8dip"
+        android:paddingLeft="8dip"
+        android:paddingBottom="4dip"
+        android:textSize="18dip"
+        android:text="GUESSWORD"
+        android:textColor="#ffffff" />
+    <AbsoluteLayout
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="290.0dp"
+        android:id="@+id/absoluteLayout1">
+        <Button
+            android:id="@+id/btna"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/a"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_x="26dp"
+            android:layout_y="10dp"
+            android:background="@drawable/a" />
+        <Button
+            android:id="@+id/btnb"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:layout_x="97dp"
+            android:layout_y="10dp"
+            android:background="@drawable/b" />
+        <Button
+            android:id="@+id/btnc"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:layout_x="163dp"
+            android:layout_y="10dp"
+            android:background="@drawable/c" />
+        <Button
+            android:id="@+id/btnd"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:layout_x="231dp"
+            android:layout_y="10dp"
+            android:background="@drawable/d" />
+    </AbsoluteLayout>
+</LinearLayout>

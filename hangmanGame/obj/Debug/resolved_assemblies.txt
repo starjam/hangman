@@ -1,0 +1,7 @@
+C:\x\hangmanGame\hangmanGame\obj\Debug\assemblies\hangmanGame.dll
+C:\x\hangmanGame\hangmanGame\obj\Debug\assemblies\Mono.Android.dll
+C:\x\hangmanGame\hangmanGame\obj\Debug\assemblies\mscorlib.dll
+C:\x\hangmanGame\hangmanGame\obj\Debug\assemblies\System.Core.dll
+C:\x\hangmanGame\hangmanGame\obj\Debug\assemblies\System.dll
+C:\x\hangmanGame\hangmanGame\obj\Debug\assemblies\System.Xml.dll
+C:\x\hangmanGame\hangmanGame\obj\Debug\assemblies\System.Xml.Linq.dll

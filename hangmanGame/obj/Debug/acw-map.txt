@@ -1,0 +1,8 @@
+hangmanGame.DataAdapter, hangmanGame;md50ef4ea323e346ae3fbc176499aa57b65.DataAdapter
+hangmanGame.DataAdapter, hangmanGame, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50ef4ea323e346ae3fbc176499aa57b65.DataAdapter
+hangmanGame.DataAdapter;md50ef4ea323e346ae3fbc176499aa57b65.DataAdapter
+hangmangame.DataAdapter;md50ef4ea323e346ae3fbc176499aa57b65.DataAdapter
+hangmanGame.MainActivity, hangmanGame;md50ef4ea323e346ae3fbc176499aa57b65.MainActivity
+hangmanGame.MainActivity, hangmanGame, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50ef4ea323e346ae3fbc176499aa57b65.MainActivity
+hangmanGame.MainActivity;md50ef4ea323e346ae3fbc176499aa57b65.MainActivity
+hangmangame.MainActivity;md50ef4ea323e346ae3fbc176499aa57b65.MainActivity
